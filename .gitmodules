@@ -1,0 +1,18 @@
+[submodule "EjerciciosFP"]
+	path = EjerciciosFP
+	url = https://github.com/Karylus/EjerciciosFP
+[submodule "P2_IA"]
+	path = P2_IA
+	url = https://github.com/Karylus/P2_IA
+[submodule "P1_IA"]
+	path = P1_IA
+	url = https://github.com/Karylus/P1_IA
+[submodule "ErasmusProjects"]
+	path = ErasmusProjects
+	url = https://github.com/Karylus/ErasmusProjects
+[submodule "PracticasED"]
+	path = PracticasED
+	url = https://github.com/Karylus/PracticasED
+[submodule "EjercicosMP"]
+	path = EjercicosMP
+	url = https://github.com/Karylus/EjercicosMP
